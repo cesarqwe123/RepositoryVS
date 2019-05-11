@@ -7,5 +7,6 @@ namespace WindowsFormsApplication1
 {
     class prueba
     {
+        public int MyProperty { get; set; }
     }
 }
